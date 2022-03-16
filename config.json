@@ -1,0 +1,15 @@
+{
+   "name": "WorkItemsForInitiative",
+   "className": "Rally.app.WorkItemsForInitiative.app",
+   "server": "https://rally1.rallydev.com",
+   "sdk": "2.0",
+   "javascript": [
+      "App.js",
+      "DateMixin.js",
+      "BurnupCalculator.js",
+      "BurndownCalculator.js"
+   ],
+   "css": [
+      "app.css"
+   ]
+}
